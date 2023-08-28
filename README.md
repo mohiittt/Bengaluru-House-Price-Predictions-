@@ -8,3 +8,5 @@ This data science project is a step by step process of how to build a real estat
 4. Sklearn for model building
 5. Jupyter notebook, visual studio code and pycharm as IDE
 6. Python flask for http server
+
+I'm now working on third component, that is website building in html, css and javascript that allows user to enter home square ft area, bedrooms etc and it will call python flask server to retrieve the predicted price.
